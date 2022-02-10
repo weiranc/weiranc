@@ -1,6 +1,10 @@
 # weiranc
 
-### 👋 Hello world, I'm Rebecca Cheng 👋
+<p align="center"><img width="300" alt="logo" src="https://user-images.githubusercontent.com/91348196/153312768-8c7ff773-dc5d-4f70-bede-7e4dbd359e8a.png">
+
+</p>
+
+### 👋 Hi, I'm Rebecca Cheng 👋
 
 I am an engineer and developer.
 
