@@ -1,6 +1,6 @@
-# weiranc
+# 👋 Hello world, I'm Rebecca Cheng 👋
 
-### 👋 Hello world, I'm Rebecca Cheng 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weiranc&hide=stars,issues&theme=buefy&show_icons=true)
 
 I am an engineer and developer.
 
