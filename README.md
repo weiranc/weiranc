@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weiranc&hide=stars,issues&theme=buefy&show_icons=true)
 
-I am an engineer and developer.
+##### I am an engineer and developer with a passion to solve problems and constantly improve my skillset!
 
 ### Connect with me:
 
